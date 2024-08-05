@@ -31,4 +31,4 @@ while(agregarMas != "no"){
         alert("Esa categoria no está predefinida.")
     }
 }
-alert(`Lista de compras:\n  Frutas: ${frutas}\n  Lacteos: ${lacteos}\n  Dulces: ${dulces}\n  Congelados: ${congelados}`);
+alert("Lista de compras:\n  Frutas: ${frutas}\n  Lácteos: ${lacteos}\n  Dulces: ${dulces}\n  Congelados: ${congelados}");
